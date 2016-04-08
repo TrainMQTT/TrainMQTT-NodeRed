@@ -1,0 +1,3 @@
+[submodule "TrainMQTT.js"]
+	path = TrainMQTT.js
+	url = https://github.com/TrainMQTT/TrainMQTT.js
